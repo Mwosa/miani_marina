@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/*top bar styling starts*/
+.top-bar h2{
+    color: #48cae4;
+}
+.top-bar a{
+    color: #7f4f24!important;
+}
+.top-bar a:hover{
+    color: aqua;
+}
+/*top bar styling ends*/
+
+/*Nav bar styling starts*/
+nav.navbar{
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+nav.navbar a{
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+}
+nav.navbar li:hover{
+    background-color: aqua;
+}
+
+/*Nav bar styling ends*/
+/*main slider section starts*/
+.main-slider img{
+    max-height: 70vh;
+}
+.main-slider .carousel-caption{
+    background-color: gray;
+    padding: 2px;
+}
+/*main slider section ends*/
+
