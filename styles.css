@@ -35,5 +35,18 @@ nav.navbar li:hover{
     background-color: gray;
     padding: 2px;
 }
-/*main slider section ends*/
+/*main slider section starts*/
+/*program styling starts*/
+.program img{
+    height: 300px;
+    opacity: .8;
+}
+.program .card:hover img{
+    opacity: 1;
+}
+.program .card:hover .card-body{
+    background-color: #48cae4;
+    color: #ffffff;
+}
 
+/*program styling ends*/
