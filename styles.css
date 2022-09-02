@@ -80,3 +80,32 @@ nav.navbar li:hover{
     height: 100px;
     border-radius: 50%;
 }
+/*upper footer section starts*/
+.upper-footer{
+    background-color: #0E1637;
+    color: #ffffff;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    line-height: 2;
+}
+
+.upper-footer ul{
+    list-style-type: none;
+}
+.upper-footer a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.upper-footer a:hover {
+    color: #48cae4;
+    text-decoration: none;
+}
+.lower-footer{
+    background-color: #0E041D;
+}
+.the-conference {
+    color: #5547DE;
+}
+.small-text {
+    font-size: 0.75rem;
+}
