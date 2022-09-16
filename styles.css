@@ -109,3 +109,35 @@ nav.navbar li:hover{
 .small-text {
     font-size: 0.75rem;
 }
+
+.row {
+    align-items: center;
+}
+
+.card-content{
+    text-align: center;
+    border-radius: 0px;
+}
+.card-content ul{
+    list-style-type: none;
+}
+.plan-header {
+    font-size: 60px;
+    font-weight: normal;
+}
+.middle-card {
+    border: 2px;
+    z-index: 5;
+}
+.middle-card-content{
+    background-color: #34c9eb;
+    color: #ffffff;
+}
+.side-cardone { 
+    border-top: #34c9eb 4px solid;
+    z-index: 4;
+   }
+.side-cardtwo{
+    border-top: 4px #34c9eb solid;
+    z-index: 4;    
+}
